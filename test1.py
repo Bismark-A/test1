@@ -1,3 +1,5 @@
- # Derek is an idiot
+# hello
 
- # he no get sense 
+# it's nice to meet you.
+
+# Just practicing
