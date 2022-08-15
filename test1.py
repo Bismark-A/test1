@@ -4,4 +4,6 @@
 
 # Just practicing
 
-# This is imteresting
+# This is interesting
+
+# rectifying my mistake
